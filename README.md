@@ -1,4 +1,4 @@
-neural Architecture Search
+# Neural Architecture Search
 
 🌼 Project description  
 - The project addresses the problem of optimizing the configuration of a
