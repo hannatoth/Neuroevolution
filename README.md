@@ -1,3 +1,5 @@
+neural Architecture Search
+
 🌼 Project description  
 - The project addresses the problem of optimizing the configuration of a
 neural network model for image classification. Specifically, the aim is to find the optimal
